@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatehmuhammad22
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C Language
+- 🌱 I’m currently learning C++ Language
 - 📫 You can reach me at fateh.m0101@gmail.com
 
 <!---
